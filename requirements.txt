@@ -1,0 +1,9 @@
+pyspark
+plotly
+numpy
+matplotlib
+numpy
+SciPy
+scikit-learn
+Kaleido
+dask
